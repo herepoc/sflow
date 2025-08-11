@@ -1,0 +1,1 @@
+Criar um mecanismo para avaliação de ligações de clientes para call center, com o objetivo de captar informações relevantes para o atendimento e aprimorar a experiência do cliente.
