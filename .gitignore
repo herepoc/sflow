@@ -1,0 +1,90 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.venv*/
+.uv/
+.python-version
+pip-wheel-metadata/
+pip-log.txt
+wheelhouse/
+build/
+dist/
+.eggs/
+*.egg-info/
+*.egg
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+.pytest_cache/
+.mypy_cache/
+.pyre/
+.pytype/
+.ruff_cache/
+.ipynb_checkpoints
+site/
+.cache/
+
+# Environments
+.env
+.env.*
+*.env
+*.env.*
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Node / Frontend
+node_modules/
+npm-packages-offline-cache/
+.pnpm-debug.log*
+.pnp.cjs
+.pnp.loader.mjs
+.pnp.js
+.pnp.data.json
+.next/
+.out/
+.nuxt/
+.eslintcache
+
+# Editors/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Coverage
+coverage/
+cov.xml
+coverage.xml
+
+# Static site/build caches
+public/
+.cache-loader/
+.parcel-cache/
+
+# OS (Windows)
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temp
+temp/
+tmp/
