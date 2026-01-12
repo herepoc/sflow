@@ -10,5 +10,3 @@ auto_execution_mode: 1
 ## Detalhes desta etapa / Objetivo
 
 ## Formato de Resposta Esperado / Output
-
-## Exemplo de estrutura para cada fluxo
